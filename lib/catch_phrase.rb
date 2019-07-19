@@ -1,4 +1,3 @@
-def catch_phrase(string = phrase)
-  puts string
-  string
+def catch_phrase
+  puts phrase
 end
